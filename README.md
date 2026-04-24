@@ -1,4 +1,4 @@
-# DiVINE Knowledge Graph Operational Manual
+# README DiVINE Knowledge Graph Operational Manual
 ## Operationalizing Digitalization Through Structured Knowledge
 
 **Version:** 1.0  
