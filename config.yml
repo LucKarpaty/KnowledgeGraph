@@ -1,2 +1,23 @@
-remote_theme: just-the-docs/just-the-docs
+# Site settings
 title: My Project Wiki
+description: A dual-sidebar wiki for my GitHub project.
+theme: jekyll-theme-primer # Default fallback
+
+# The "Just the Docs" magic
+remote_theme: just-the-docs/just-the-docs
+
+# Navigation settings (The Left Sidebar)
+nav_enabled: true
+nav_external_links:
+  - title: GitHub Repo
+    url: https://github.com/your-username/your-repo
+
+# Table of Contents settings (The Right Sidebar)
+# This theme automatically generates the right sidebar 
+# for headers (h2, h3) when the screen is wide enough.
+toc_enabled: true
+
+# Formatting
+aux_links:
+  "Edit this page on GitHub":
+    - "https://github.com/your-username/your-repo/tree/main/docs"
