@@ -5,4 +5,4 @@ nav_order: 1
 ---
 
 # DiVINE Knowledge Graph Operational Manual
-...your content...
+...your content... all right
