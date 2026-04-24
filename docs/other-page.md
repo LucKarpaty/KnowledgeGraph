@@ -1,3 +1,9 @@
+---
+layout: default
+title: Detailed Instructions
+nav_order: 2
+---
+
 # DiVINE Knowledge Graph Operational Manual
 ## Operationalizing Digitalization Through Structured Knowledge
 
